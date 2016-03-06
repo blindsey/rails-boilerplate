@@ -6,10 +6,8 @@
 * [Puma](http://puma.io/)
 * [Haml](http://haml.info/)
 * no coffeescript
-
 * [rspec](http://rspec.info/)
 * [factory girl](https://github.com/thoughtbot/factory_girl)
-
 * [rails_12factor](https://github.com/heroku/rails_12factor)
 * no colorized logging
 * no turbolinks
