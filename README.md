@@ -1,8 +1,8 @@
 # rails-boilerplate
 
-* Rails 4.2.x
-* Ruby 2.2.4
-* postgresql
+* Rails 5.0.0
+* Ruby 2.3.1
+* PostgreSQL
 * [Puma](http://puma.io/)
 * [Haml](http://haml.info/)
 * no coffeescript
