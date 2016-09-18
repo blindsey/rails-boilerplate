@@ -80,6 +80,4 @@ test:
 #
 production:
   <<: *default
-  database: fillory_production
-  username: fillory
-  password: <%= ENV['FILLORY_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
